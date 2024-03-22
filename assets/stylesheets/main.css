@@ -152,12 +152,10 @@ strong {
 }
 cite, em {
   font-style: italic;
-  .teaser a:hover h3 {
-    color: #a9b2b9;
-  }
-  
-  
-                  
+}
+.teaser a:hover h3 {
+  color: #a9b2b9;
+}
 
 /*
   ========================================
